@@ -2,7 +2,7 @@
 PysimpleGUI  in python 3.7 - Calculator
 6001012630144 Saksit Wilainuch 
 
-
+http://mymindnsoftware.blogspot.com >> My Blog 
 
 
 
